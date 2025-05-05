@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+Django
+PyMySQL
+nltk
+rouge-score
+torch
+torchvision
+transformers
+sentence-transformers
+sentencepiece
+matplotlib
+
+
+ 
